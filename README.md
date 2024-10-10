@@ -6,11 +6,8 @@ I am a **Machine Learning Engineer** with a background in **Computer Science** a
 Currently, I’m on a mission to build scalable and impactful machine learning solutions while contributing to the open-source community.
 
 ## 🛠️ Technologies & Tools
-
-<!-- Table for layout -->
 <table>
   <tr>
-    <!-- Bash -->
     <td align="center" width="96">
       <div title="Proficient">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
@@ -18,7 +15,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>Bash
     </td>
     
-    <!-- C -->
   <td align="center" width="96">
       <div title="Novice">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
@@ -26,7 +22,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>C
     </td>
     
-  <!-- C++ -->
    <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
@@ -34,7 +29,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>C++
     </td>
     
-    <!-- C# -->
   <td align="center" width="96">
       <div title="Advanced Beginner">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
@@ -44,7 +38,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
   </tr>
 
   <tr>
-    <!-- CSS -->
     <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
@@ -52,7 +45,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>CSS
     </td>
     
-    <!-- HTML -->
   <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
@@ -60,7 +52,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>HTML
     </td>
     
-    <!-- JavaScript -->
   <td align="center" width="96">
       <div title="Advanced Beginner">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -68,7 +59,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>JavaScript
     </td>
     
-    <!-- Matlab -->
    <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="Matlab" />
@@ -76,15 +66,12 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>Matlab
     </td>
   </tr>
-  
- <!-- More rows for other tools/technologies -->
 </table>
 
 ## 🛠️ Tools & Other Skills
 
 <table>
   <tr>
-    <!-- Git -->
     <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -92,7 +79,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>Git
     </td>
     
-    <!-- Jenkins -->
   <td align="center" width="96">
       <div title="Proficient">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
@@ -100,7 +86,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>Jenkins
     </td>
 
-    <!-- DevOps -->
   <td align="center" width="96">
       <div title="Proficient">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" width="48" height="48" alt="DevOps" />
@@ -108,7 +93,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>DevOps
     </td>
 
-    <!-- CI/CD -->
   <td align="center" width="96">
       <div title="Expert">
         <img src="https://img.icons8.com/ios/50/000000/continuous-integration.png" width="48" height="48" alt="CI/CD" />
