@@ -106,9 +106,9 @@ Built an interactive tool for **Snorkel Flow** that assists machine learning cus
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dullahgtt&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dullahgtt&layout=compact&theme=radical)
 
 ## 🎓 Education & Certifications
 
