@@ -116,12 +116,12 @@ Built an interactive tool for **Snorkel Flow** that assists machine learning cus
 - **H-LSAMP Scholar** for 3 years
 - **Relevant Courses**: Machine Learning, Software Engineering, Computational Mathematics
 
-**## 📫 How to reach me:
+## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/abdullah-kamal-a0106b1b9/))
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:abdullahkamal888@gmail.com)
 [![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://www.instagram.com/dullahkamal/)
 [![Google Scholar](https://img.icons8.com/ios-filled/50/000000/google-scholar.png)](https://scholar.google.com/citations?user=tI6Zx_8AAAAJ&hl=en&authuser=1)
-[![ORCID](https://img.icons8.com/ios-filled/50/000000/orcid.png)](https://orcid.org/0009-0002-2127-7917)**
+[![ORCID](https://img.icons8.com/ios-filled/50/000000/orcid.png)](https://orcid.org/0009-0002-2127-7917)
 
 
 ![Drone Simulation GIF](https://your-website-link.com/drone_simulation.gif)
