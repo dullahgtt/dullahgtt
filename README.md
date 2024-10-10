@@ -85,20 +85,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       </div>
       <br>Jenkins
     </td>
-
-  <td align="center" width="96">
-      <div title="Proficient">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" width="48" height="48" alt="DevOps" />
-      </div>
-      <br>DevOps
-    </td>
-
-  <td align="center" width="96">
-      <div title="Expert">
-        <img src="https://img.icons8.com/ios/50/000000/continuous-integration.png" width="48" height="48" alt="CI/CD" />
-      </div>
-      <br>CI/CD
-    </td>
   </tr>
   </table>
 
