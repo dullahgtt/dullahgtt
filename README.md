@@ -66,11 +66,6 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
       <br>Matlab
     </td>
   </tr>
-</table>
-
-## 🛠️ Tools & Other Skills
-
-<table>
   <tr>
     <td align="center" width="96">
       <div title="Expert">
