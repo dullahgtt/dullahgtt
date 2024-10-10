@@ -116,12 +116,14 @@ Built an interactive tool for **Snorkel Flow** that assists machine learning cus
 - **H-LSAMP Scholar** for 3 years
 - **Relevant Courses**: Machine Learning, Software Engineering, Computational Mathematics
 
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/abdullah-kamal-a0106b1b9/))
+## 📫 How to Reach Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-kamal-a0106b1b9/)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:abdullahkamal888@gmail.com)
-[![Instagram]](https://www.instagram.com/dullahkamal/)
-[![Google Scholar]](https://scholar.google.com/citations?user=tI6Zx_8AAAAJ&hl=en&authuser=1)
-[![ORCID]](https://orcid.org/0009-0002-2127-7917)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dullahkamal/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tI6Zx_8AAAAJ&hl=en&authuser=1)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2127-7917)
+
 
 
 ![Drone Simulation GIF](https://your-website-link.com/drone_simulation.gif)
