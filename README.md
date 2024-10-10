@@ -117,8 +117,8 @@ Built an interactive tool for **Snorkel Flow** that assists machine learning cus
 - **Relevant Courses**: Machine Learning, Software Engineering, Computational Mathematics
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/abdullah-kamal-a0106b1b9/))
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:abdullahkamal888@gmail.com)
 
 ![Drone Simulation GIF](https://your-website-link.com/drone_simulation.gif)
 
