@@ -1,7 +1,7 @@
 ## Hi, I'm Abdullah 👋
 Welcome to my GitHub profile!
 
-I am a **Machine Learning Engineer** with a background in **Computer Science** and **Applied Mathematics**. I recently graduated from Texas State University, where I had the honor of working with inspiring mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** through the **H-LSAMP Scholars Program**. I've had the opportunity to work on diverse projects ranging from **drone simulations** to **AI-powered applications**. I am passionate about applying my skills to solve real-world problems, especially in **AI**, **ML**, and **software development**.
+I am a **Machine Learning Engineer** with a background in **Computer Science** and **Applied Mathematics**. I recently graduated from Texas State University, where I had the honor of working with inspiring mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** through the [**H-LSAMP Scholars Program**](https://hlsamp.cose.txst.edu/). I've had the opportunity to work on diverse projects ranging from **drone simulations** to **AI-powered applications**. I am passionate about applying my skills to solve real-world problems, especially in **AI**, **ML**, and **software development**.
 
 Currently, I’m on a mission to build scalable and impactful machine learning solutions while contributing to the open-source community.
 
