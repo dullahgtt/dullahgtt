@@ -5,14 +5,121 @@ I am a **Machine Learning Engineer** with a background in **Computer Science** a
 
 Currently, I’m on a mission to build scalable and impactful machine learning solutions while contributing to the open-source community.
 
-## 🚀 Technologies & Tools
+## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Table for layout -->
+<table>
+  <tr>
+    <!-- Bash -->
+    <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      </div>
+      <br>Bash
+    </td>
+    
+    <!-- C -->
+    <td align="center" width="96">
+      <div title="Novice">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </div>
+      <br>C
+    </td>
+    
+    <!-- C++ -->
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </div>
+      <br>C++
+    </td>
+    
+    <!-- C# -->
+    <td align="center" width="96">
+      <div title="Advanced Beginner">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      </div>
+      <br>C#
+    </td>
+  </tr>
+
+  <tr>
+    <!-- CSS -->
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </div>
+      <br>CSS
+    </td>
+    
+    <!-- HTML -->
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </div>
+      <br>HTML
+    </td>
+    
+    <!-- JavaScript -->
+    <td align="center" width="96">
+      <div title="Advanced Beginner">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </div>
+      <br>JavaScript
+    </td>
+    
+    <!-- Matlab -->
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="Matlab" />
+      </div>
+      <br>Matlab
+    </td>
+  </tr>
+  
+  <!-- More rows for other tools/technologies -->
+</table>
+
+## 🛠️ Tools & Other Skills
+
+<table>
+  <tr>
+    <!-- Git -->
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </div>
+      <br>Git
+    </td>
+    
+    <!-- Jenkins -->
+    <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      </div>
+      <br>Jenkins
+    </td>
+
+    <!-- DevOps -->
+    <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" width="48" height="48" alt="DevOps" />
+      </div>
+      <br>DevOps
+    </td>
+
+    <!-- CI/CD -->
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://img.icons8.com/ios/50/000000/continuous-integration.png" width="48" height="48" alt="CI/CD" />
+      </div>
+      <br>CI/CD
+    </td>
+  </tr>
+  
+  <!-- Add more tools -->
+</table>
+
 
 ## 🔥 Featured Projects
 
