@@ -102,14 +102,6 @@ Developed a model for **drone zone mapping** integrating **Human-Focused Princip
 
 ---
 
-### 💻 Machine Learning Customer Success Tool
-Built an interactive tool for **Snorkel Flow** that assists machine learning customers in deploying AI applications efficiently, solving complex problems, and contributing to a **customer success journey**.
-
-- **Tech Stack**: Python, TensorFlow, AWS, Google Cloud Platform
-- **[Repository Link](https://github.com/your_username/ml-customer-success-tool)**
-
----
-
 ### 💳 Credit Card Fraud Detection
 Detecting misuse of credit cards using **supervised learning** algorithms. This project applies oversampling techniques and evaluates the predictability of credit card scams using a sample dataset of registered frauds.
 
