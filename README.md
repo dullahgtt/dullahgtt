@@ -1,9 +1,16 @@
-## Hi, I'm Abdullah 👋
+![Hello](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+## Hi, I'm Abdullah 👋  
 Welcome to my GitHub profile!
 
-I am a **Machine Learning Engineer** with a background in **Computer Science** and **Applied Mathematics**. I recently graduated from Texas State University, where I had the honor of working with inspiring mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** through the [**H-LSAMP Scholars Program**](https://hlsamp.cose.txst.edu/). I've had the opportunity to work on diverse projects ranging from **drone simulations** to **AI-powered applications**. I am passionate about applying my skills to solve real-world problems, especially in **AI**, **ML**, and **software development**.
+🚀 I’m a **Machine Learning Engineer** with a strong foundation in **Computer Science** and **Applied Mathematics**. I recently graduated from [Texas State University](https://www.txstate.edu), where I had the incredible opportunity to work with exceptional mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** through the prestigious [**H-LSAMP Scholars Program**](https://hlsamp.cose.txst.edu/).
 
-Currently, I’m on a mission to build scalable and impactful machine learning solutions while contributing to the open-source community.
+💡 My passion lies in leveraging **AI**, **ML**, and **software development** to solve real-world problems. I've worked on a wide range of projects—from building **drone simulations** 🛩️ to developing **AI-powered applications** 🤖 that drive innovation and efficiency. 
+
+🔍 **What I'm focused on now:**  
+I'm on a mission to build **scalable**, **impactful** machine learning solutions, contribute to the **open-source community**, and continuously learn and grow in the field of AI.
+
+🌟 Let's connect and explore how we can collaborate!
 
 ## 🛠️ Technologies & Tools
 <table>
