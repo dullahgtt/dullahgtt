@@ -168,9 +168,7 @@ A web-based chat bot that generates humorous insults using API integrations, des
 
 
 
-![Drone Simulation GIF](https://your-website-link.com/drone_simulation.gif)
-
-- This is a real-time demonstration of drone path visualization using **Plotly**.
+![Drone Simulation GIF](https://media.giphy.com/media/vfZ7EwPyLnnRm/giphy.gif)
 
 <!--
 **dullahgtt/dullahgtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
