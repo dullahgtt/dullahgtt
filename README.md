@@ -157,6 +157,7 @@ A web-based chat bot that generates humorous insults using API integrations, des
 - **Bachelor of Science** in Computer Science and Applied Mathematics - Texas State University
 - **H-LSAMP Scholar** for 3 years
 - **Relevant Courses**: Machine Learning, Software Engineering, Computational Mathematics
+- **Activities**: SIAM, GDSC, IEEE, HKN
 
 ## 📫 How to Reach Me:
 
