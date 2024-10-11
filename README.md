@@ -90,19 +90,64 @@ Currently, I’m on a mission to build scalable and impactful machine learning s
 A Python-based simulation to control a **Tello drone** using keyboard inputs and calculate battery consumption. The project integrates **Plotly** for 3D visualizations of drone movements and battery data, providing an interactive GUI built with **PyQt5**.
 
 - **Tech Stack**: Python, Folium, PyQt5, Plotly
-- **[Repository Link](https://github.com/your_username/drone-simulation)**
+- **[Repository Link](https://github.com/dullahgtt/Drone-Battery-Simulator)**
+
+---
 
 ### 🌐 No-Fly Zone Security for Drones
 Developed a model for **drone zone mapping** integrating **Human-Focused Principles** to create secure no-fly zones for **urban environments**, focusing on security and privacy measures. This project explores **Attribute-Based Access Control (ABAC)** in drone navigation.
 
 - **Tech Stack**: Flask, Folium, Shapely, Python
-- **[Repository Link](https://github.com/your_username/nofly-zone)**
+- **[Repository Link](https://github.com/dullahgtt/REU-2022)**
+
+---
 
 ### 💻 Machine Learning Customer Success Tool
 Built an interactive tool for **Snorkel Flow** that assists machine learning customers in deploying AI applications efficiently, solving complex problems, and contributing to a **customer success journey**.
 
 - **Tech Stack**: Python, TensorFlow, AWS, Google Cloud Platform
 - **[Repository Link](https://github.com/your_username/ml-customer-success-tool)**
+
+---
+
+### 💳 Credit Card Fraud Detection
+Detecting misuse of credit cards using **supervised learning** algorithms. This project applies oversampling techniques and evaluates the predictability of credit card scams using a sample dataset of registered frauds.
+
+- **Tech Stack**: Python
+- **[Repository Link](https://github.com/dullahgtt/Credit-Card-Fraud)**
+
+---
+
+### 🗳️ U.S. County Political Perception Drift
+Utilized **deep learning** to analyze political trends in the United States, implementing oriented **hypergraphs** to study sentiment in major elections.
+
+- **Tech Stack**: R, Python, Latex
+- **[Project Link](https://drive.google.com/file/d/14fp_IXIruJPljTpX6XQMLYQ1eh_na1Nw/view?usp=sharing)**
+
+---
+
+### 🗣️ Speaker Diarization via Clustering on CNNs
+A research project that analyzes clustering methods to improve speaker recognition for **video transcription** using **CNNs** and **PCA-Kmeans** algorithms.
+
+- **Tech Stack**: MATLAB, Latex, Python
+- **[Project Link](https://drive.google.com/file/d/1_B_lcpMaqaZvfPYVrNL5sT04e1DRJnAC/view?usp=sharing)**
+
+---
+
+### 📰 Image Recognition for Detecting Misinformation (IRDM)
+Designed to detect **fake news** on X (formerly Twitter) by using **web scraping** and cross-referencing information with news outlet databases.
+
+- **Tech Stack**: Python, HTML, CSS
+- **[Project Link](https://drive.google.com/file/d/1ePYC9a41d9iquCqAvahFDwT0aZDEd0-P/view)**
+
+---
+
+### 🤖 Cleetus: The Insult Bot
+A web-based chat bot that generates humorous insults using API integrations, designed for light-hearted fun.
+
+- **Tech Stack**: Python, HTML, CSS, React, SQLAlchemy
+- **[Repository Link](https://github.com/dullahgtt/Friendly-Chat-Bot)**
+
 
 ## 📈 GitHub Stats
 
