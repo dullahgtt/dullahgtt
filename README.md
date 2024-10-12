@@ -73,9 +73,9 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
 
   <td align="center" width="96">
       <div title="Expert">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shell/shell-original.svg" width="48" height="48" alt="Shell" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell" />
       </div>
-      <br>Shell
+      <br>Bash
     </td>
 
   <td align="center" width="96">
@@ -96,7 +96,7 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
 
   <td align="center" width="96">
       <div title="Expert">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="48" height="48" alt="SQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
       </div>
       <br>SQL
     </td>
