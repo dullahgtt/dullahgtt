@@ -94,86 +94,86 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
 ### 🛩️ Drone Simulation and Battery Consumption Analysis
 A Python-based simulation to control a **Tello drone** using keyboard inputs and calculate battery consumption. The project integrates **Plotly** for 3D visualizations of drone movements and battery data, providing an interactive GUI built with **PyQt5**.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Folium](https://img.shields.io/badge/Folium-5F8D4C?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)
   [![PyQt5](https://img.shields.io/badge/PyQt5-4B8BBE?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
   [![Plotly](https://img.shields.io/badge/Plotly-3B5998?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
   
-- **[Repository Link](https://github.com/dullahgtt/Drone-Battery-Simulator)**
+**[Repository Link](https://github.com/dullahgtt/Drone-Battery-Simulator)**
 
 ---
 
 ### 🌐 No-Fly Zone Security for Drones
 Developed a model for **drone zone mapping** integrating **Human-Focused Principles** to create secure no-fly zones for **urban environments**, focusing on security and privacy measures. This project explores **Attribute-Based Access Control (ABAC)** in drone navigation.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   [![Folium](https://img.shields.io/badge/Folium-5F8D4C?style=for-the-badge&logo=folium&logoColor=white)](https://python-visualization.github.io/folium/)
   [![Shapely](https://img.shields.io/badge/Shapely-66A0D1?style=for-the-badge&logo=python&logoColor=white)](https://shapely.readthedocs.io/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- **[Repository Link](https://github.com/dullahgtt/REU-2022)**
+**[Repository Link](https://github.com/dullahgtt/REU-2022)**
 
 ---
 
 ### 💳 Credit Card Fraud Detection
 Detecting misuse of credit cards using **supervised learning** algorithms. This project applies oversampling techniques and evaluates the predictability of credit card scams using a sample dataset of registered frauds.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- **[Repository Link](https://github.com/dullahgtt/Credit-Card-Fraud)**
+**[Repository Link](https://github.com/dullahgtt/Credit-Card-Fraud)**
 
 ---
 
 ### 🗳️ U.S. County Political Perception Drift
 Utilized **deep learning** to analyze political trends in the United States, implementing oriented **hypergraphs** to study sentiment in major elections.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![LaTeX](https://img.shields.io/badge/LaTeX-3A1A1A?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-- **[Project Link](https://drive.google.com/file/d/14fp_IXIruJPljTpX6XQMLYQ1eh_na1Nw/view?usp=sharing)**
+**[Project Link](https://drive.google.com/file/d/14fp_IXIruJPljTpX6XQMLYQ1eh_na1Nw/view?usp=sharing)**
 
 ---
 
 ### 🗣️ Speaker Diarization via Clustering on CNNs
 A research project that analyzes clustering methods to improve speaker recognition for **video transcription** using **CNNs** and **PCA-Kmeans** algorithms.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![LaTeX](https://img.shields.io/badge/LaTeX-3A1A1A?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-- **[Project Link](https://drive.google.com/file/d/1_B_lcpMaqaZvfPYVrNL5sT04e1DRJnAC/view?usp=sharing)**
+**[Project Link](https://drive.google.com/file/d/1_B_lcpMaqaZvfPYVrNL5sT04e1DRJnAC/view?usp=sharing)**
 
 ---
 
 ### 📰 Image Recognition for Detecting Misinformation (IRDM)
 Designed to detect **fake news** on X (formerly Twitter) by using **web scraping** and cross-referencing information with news outlet databases.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- **[Project Link](https://drive.google.com/file/d/1ePYC9a41d9iquCqAvahFDwT0aZDEd0-P/view)**
+**[Project Link](https://drive.google.com/file/d/1ePYC9a41d9iquCqAvahFDwT0aZDEd0-P/view)**
 
 ---
 
 ### 🤖 Cleetus: The Insult Bot
 A web-based chat bot that generates humorous insults using API integrations, designed for light-hearted fun.
 
-- **Tech Stack**: 
+**Tech Stack**: 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
   [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3EAA6D?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 
-- **[Repository Link](https://github.com/dullahgtt/Friendly-Chat-Bot)**
+**[Repository Link](https://github.com/dullahgtt/Friendly-Chat-Bot)**
 
 
 
