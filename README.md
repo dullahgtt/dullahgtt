@@ -47,10 +47,8 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>JavaScript
     </td>
-  </tr>
   
-  <tr>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <div title="Advanced Beginner">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </div>
@@ -70,7 +68,9 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>C#
     </td>
+    </tr>
 
+<tr>
   <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell" />
@@ -84,10 +84,8 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>R
     </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
       </div>
@@ -121,15 +119,14 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>CSS
     </td>
-  </tr>
-    <tr>
     <td align="center" width="96">
       <div title="Proficient">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
       </div>
       <br>VS
     </td>
-
+    </tr>
+<tr>
   <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
@@ -157,10 +154,8 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>Pandas
     </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
       </div>
@@ -187,17 +182,16 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>Ansible
     </td>
-
+    </tr>
+<tr>
   <td align="center" width="96">
       <div title="Proficient">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       </div>
       <br>Jira
     </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
       </div>
