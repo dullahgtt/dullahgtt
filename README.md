@@ -99,7 +99,7 @@ A Python-based simulation to control a **Tello drone** using keyboard inputs and
   [![PyQt5](https://img.shields.io/badge/PyQt5-4B8BBE?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
   [![Plotly](https://img.shields.io/badge/Plotly-3B5998?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
   
-**[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Drone-Battery-Simulator)
+[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Drone-Battery-Simulator)
 
 ---
 
@@ -111,7 +111,7 @@ Developed a model for **drone zone mapping** integrating **Human-Focused Princip
   [![Shapely](https://img.shields.io/badge/Shapely-66A0D1?style=for-the-badge&logo=python&logoColor=white)](https://shapely.readthedocs.io/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/REU-2022)
+[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/REU-2022)
 
 ---
 
@@ -120,7 +120,7 @@ Detecting misuse of credit cards using **supervised learning** algorithms. This 
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Credit-Card-Fraud)
+[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Credit-Card-Fraud)
 
 ---
 
@@ -131,7 +131,7 @@ Utilized **deep learning** to analyze political trends in the United States, imp
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![LaTeX](https://img.shields.io/badge/LaTeX-3A1A1A?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-**[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/14fp_IXIruJPljTpX6XQMLYQ1eh_na1Nw/view?usp=sharing)
+[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/14fp_IXIruJPljTpX6XQMLYQ1eh_na1Nw/view?usp=sharing)
 
 ---
 
@@ -142,7 +142,7 @@ A research project that analyzes clustering methods to improve speaker recogniti
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![LaTeX](https://img.shields.io/badge/LaTeX-3A1A1A?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-**[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1_B_lcpMaqaZvfPYVrNL5sT04e1DRJnAC/view?usp=sharing)
+[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1_B_lcpMaqaZvfPYVrNL5sT04e1DRJnAC/view?usp=sharing)
 
 ---
 
@@ -153,7 +153,7 @@ Designed to detect **fake news** on X (formerly Twitter) by using **web scraping
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1ePYC9a41d9iquCqAvahFDwT0aZDEd0-P/view)
+[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1ePYC9a41d9iquCqAvahFDwT0aZDEd0-P/view)
 
 ---
 
@@ -166,7 +166,7 @@ A web-based chat bot that generates humorous insults using API integrations, des
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
   [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3EAA6D?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 
-**[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Friendly-Chat-Bot)
+[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Friendly-Chat-Bot)
 
 
 ## 📈 GitHub Stats
