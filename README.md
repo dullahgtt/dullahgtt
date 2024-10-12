@@ -225,6 +225,7 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       </div>
       <br>Agile
     </td>
+  </tr>
 
   <td align="center" width="96">
       <div title="Proficient">
