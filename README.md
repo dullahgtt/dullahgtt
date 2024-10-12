@@ -218,6 +218,21 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       <br>Google Cloud
     </td>
   </tr>
+    <tr>
+    <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" width="48" height="48" alt="Agile" />
+      </div>
+      <br>Agile
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" width="48" height="48" alt="Scrum" />
+      </div>
+      <br>Scrum
+    </td>
+  </tr>
 </table>
 
 
