@@ -122,6 +122,102 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
       <br>CSS
     </td>
   </tr>
+    <tr>
+    <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+      </div>
+      <br>VS
+    </td>
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </div>
+      <br>Linux
+    </td>
+    
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
+      </div>
+      <br>LaTeX
+    </td>
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+      </div>
+      <br>Flask
+    </td>
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      </div>
+      <br>Pandas
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      </div>
+      <br>TensorFlow
+    </td>
+    
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      </div>
+      <br>PyTorch
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      </div>
+      <br>Azure
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      </div>
+      <br>Ansible
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      </div>
+      <br>Jira
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      </div>
+      <br>Jenkins
+    </td>
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </div>
+      <br>Git
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+      </div>
+      <br>Google Cloud
+    </td>
+  </tr>
 </table>
 
 
