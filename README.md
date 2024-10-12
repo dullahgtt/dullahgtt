@@ -219,7 +219,7 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
     </td>
     <td align="center" width="96">
       <div title="Proficient">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Agile_Logo.svg/1200px-Agile_Logo.svg.png" width="48" height="48" alt="Agile" />
+        <img src="https://www.agilealliance.org/wp-content/uploads/2016/09/Agile-Alliance-Logo-RGB-2019.png" width="48" height="48" alt="Agile" />
       </div>
       <br>Agile
     </td>
