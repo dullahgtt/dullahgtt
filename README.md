@@ -100,6 +100,7 @@ A Python-based simulation to control a **Tello drone** using keyboard inputs and
   [![Plotly](https://img.shields.io/badge/Plotly-3B5998?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
   
 **[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Drone-Battery-Simulator)
+
 ---
 
 ### 🌐 No-Fly Zone Security for Drones
@@ -111,6 +112,7 @@ Developed a model for **drone zone mapping** integrating **Human-Focused Princip
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 **[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/REU-2022)
+
 ---
 
 ### 💳 Credit Card Fraud Detection
@@ -119,6 +121,7 @@ Detecting misuse of credit cards using **supervised learning** algorithms. This 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 **[![View Repository](https://img.shields.io/badge/View_Repository-0072B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dullahgtt/Credit-Card-Fraud)
+
 ---
 
 ### 🗳️ U.S. County Political Perception Drift
@@ -129,6 +132,7 @@ Utilized **deep learning** to analyze political trends in the United States, imp
   [![LaTeX](https://img.shields.io/badge/LaTeX-3A1A1A?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 **[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/14fp_IXIruJPljTpX6XQMLYQ1eh_na1Nw/view?usp=sharing)
+
 ---
 
 ### 🗣️ Speaker Diarization via Clustering on CNNs
@@ -139,6 +143,7 @@ A research project that analyzes clustering methods to improve speaker recogniti
   [![LaTeX](https://img.shields.io/badge/LaTeX-3A1A1A?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 **[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1_B_lcpMaqaZvfPYVrNL5sT04e1DRJnAC/view?usp=sharing)
+
 ---
 
 ### 📰 Image Recognition for Detecting Misinformation (IRDM)
@@ -149,6 +154,7 @@ Designed to detect **fake news** on X (formerly Twitter) by using **web scraping
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **[![View Project](https://img.shields.io/badge/View_Project-0072B8?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1ePYC9a41d9iquCqAvahFDwT0aZDEd0-P/view)
+
 ---
 
 ### 🤖 Cleetus: The Insult Bot
