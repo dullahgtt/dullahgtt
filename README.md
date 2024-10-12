@@ -177,17 +177,15 @@ A web-based chat bot that generates humorous insults using API integrations, des
 
 ## 🎓 Education & Certifications
 
-- **Bachelor of Science** in **Computer Science** and **Applied Mathematics**  
+**Bachelor of Science** in **Computer Science** and **Applied Mathematics**  
   *Texas State University*  
   ![Texas State University](https://img.shields.io/badge/Texas%20State%20University-%23004B87.svg?style=for-the-badge&logo=Texas%20State%20University)
 
-- **H-LSAMP Scholar**  
+**H-LSAMP Scholar**  
   ![H-LSAMP](https://img.shields.io/badge/H--LSAMP%20Scholar-%230066CC.svg?style=for-the-badge&logo=H-LSAMP)
 
 ### Relevant Courses
-- Machine Learning
-- Software Engineering
-- Computational Mathematics
+Machine Learning - Software Engineering - Computational Mathematics
 
 ### Activities
 ![SIAM](https://img.shields.io/badge/SIAM-%2300A0D1.svg?style=for-the-badge&logo=SIAM)
