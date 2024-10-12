@@ -14,20 +14,6 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
 <table>
   <tr>
     <td align="center" width="96">
-      <div title="Proficient">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-      </div>
-      <br>Bash
-    </td>
-    
-  <td align="center" width="96">
-      <div title="Novice">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </div>
-      <br>C
-    </td>
-    
-   <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </div>
@@ -35,58 +21,109 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
     </td>
     
   <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </div>
+      <br>Python
+    </td>
+    
+  <td align="center" width="96">
+      <div title="Novice">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="48" height="48" alt="Perl" />
+      </div>
+      <br>Perl
+    </td>
+    
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </div>
+      <br>Java
+    </td>
+    
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </div>
+      <br>JavaScript
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <div title="Advanced Beginner">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </div>
+      <br>React
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </div>
+      <br>C
+    </td>
+
+  <td align="center" width="96">
       <div title="Advanced Beginner">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </div>
       <br>C#
+    </td>
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shell/shell-original.svg" width="48" height="48" alt="Shell" />
+      </div>
+      <br>Shell
+    </td>
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
+      </div>
+      <br>R
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
       <div title="Expert">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
       </div>
-      <br>CSS
+      <br>MATLAB
     </td>
-    
+
+  <td align="center" width="96">
+      <div title="Expert">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="48" height="48" alt="SQL" />
+      </div>
+      <br>SQL
+    </td>
+
+  <td align="center" width="96">
+      <div title="Proficient">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="KQL" />
+      </div>
+      <br>KQL
+    </td>
+
   <td align="center" width="96">
       <div title="Expert">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </div>
       <br>HTML
     </td>
-    
+
   <td align="center" width="96">
-      <div title="Advanced Beginner">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </div>
-      <br>JavaScript
-    </td>
-    
-   <td align="center" width="96">
       <div title="Expert">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="Matlab" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       </div>
-      <br>Matlab
+      <br>CSS
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <div title="Expert">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </div>
-      <br>Git
-    </td>
-    
-  <td align="center" width="96">
-      <div title="Proficient">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
-      </div>
-      <br>Jenkins
-    </td>
-  </tr>
-  </table>
+</table>
+
 
 
 ## 🔥 Featured Projects
