@@ -219,14 +219,14 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
     </td>
     <td align="center" width="96">
       <div title="Proficient">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" width="48" height="48" alt="Agile" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Agile_Logo.svg/1200px-Agile_Logo.svg.png" width="48" height="48" alt="Agile" />
       </div>
       <br>Agile
     </td>
 
   <td align="center" width="96">
       <div title="Proficient">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" width="48" height="48" alt="Scrum" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Scrum_logo.svg/1200px-Scrum_logo.svg.png" width="48" height="48" alt="Scrum" />
       </div>
       <br>Scrum
     </td>
