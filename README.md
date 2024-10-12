@@ -190,10 +190,10 @@ A web-based chat bot that generates humorous insults using API integrations, des
 - Computational Mathematics
 
 ### Activities
-- ![SIAM](https://img.shields.io/badge/SIAM-%2300A0D1.svg?style=for-the-badge&logo=SIAM)
-- ![GDSC](https://img.shields.io/badge/GDSC-%23F15123.svg?style=for-the-badge&logo=Google%20Developer%20Student%20Clubs)
-- ![IEEE](https://img.shields.io/badge/IEEE-%23179DDC.svg?style=for-the-badge&logo=IEEE)
-- ![HKN](https://img.shields.io/badge/HKN-%23B00000.svg?style=for-the-badge&logo=HKN)
+![SIAM](https://img.shields.io/badge/SIAM-%2300A0D1.svg?style=for-the-badge&logo=SIAM)
+  ![GDSC](https://img.shields.io/badge/GDSC-%23F15123.svg?style=for-the-badge&logo=Google%20Developer%20Student%20Clubs)
+  ![IEEE](https://img.shields.io/badge/IEEE-%23179DDC.svg?style=for-the-badge&logo=IEEE)
+  ![HKN](https://img.shields.io/badge/HKN-%23B00000.svg?style=for-the-badge&logo=HKN)
 
 
 ## 📫 How to Reach Me:
