@@ -178,11 +178,7 @@ A web-based chat bot that generates humorous insults using API integrations, des
 ## 🎓 Education & Certifications
 
 **Bachelor of Science** in **Computer Science** and **Applied Mathematics**  
-  *Texas State University*  
-  ![Texas State University](https://img.shields.io/badge/Texas%20State%20University-%23004B87.svg?style=for-the-badge&logo=Texas%20State%20University)
-
-**H-LSAMP Scholar**  
-  ![H-LSAMP](https://img.shields.io/badge/H--LSAMP%20Scholar-%230066CC.svg?style=for-the-badge&logo=H-LSAMP)
+  ![Texas State University](https://img.shields.io/badge/Texas%20State%20University-%23004B87.svg?style=for-the-badge&logo=Texas%20State%20University)  
 
 ### Relevant Courses
 Machine Learning - Software Engineering - Computational Mathematics
@@ -192,7 +188,7 @@ Machine Learning - Software Engineering - Computational Mathematics
   ![GDSC](https://img.shields.io/badge/GDSC-%23F15123.svg?style=for-the-badge&logo=Google%20Developer%20Student%20Clubs)
   ![IEEE](https://img.shields.io/badge/IEEE-%23179DDC.svg?style=for-the-badge&logo=IEEE)
   ![HKN](https://img.shields.io/badge/HKN-%23B00000.svg?style=for-the-badge&logo=HKN)
-
+  ![H-LSAMP Scholar](https://img.shields.io/badge/H--LSAMP%20Scholar-%230066CC.svg?style=for-the-badge&logo=H-LSAMP)
 
 ## 📫 How to Reach Me:
 
