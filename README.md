@@ -178,10 +178,10 @@ A web-based chat bot that generates humorous insults using API integrations, des
 ## 🎓 Education & Certifications
 
 **Bachelor of Science** in **Computer Science** and **Applied Mathematics**  
-  ![Texas State University](https://img.shields.io/badge/Texas%20State%20University-%23004B87.svg?style=for-the-badge&logo=Texas%20State%20University)  
+![Texas State University](https://img.shields.io/badge/Texas%20State%20University-%23004B87.svg?style=for-the-badge&logo=Texas%20State%20University)
 
 ### Relevant Courses
-Machine Learning - Software Engineering - Computational Mathematics
+**Machine Learning** | **Software Engineering** | **Computational Mathematics**
 
 ### Activities
 ![SIAM](https://img.shields.io/badge/SIAM-%2300A0D1.svg?style=for-the-badge&logo=SIAM)
