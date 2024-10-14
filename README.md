@@ -213,14 +213,14 @@ I'm on a mission to build **scalable**, **impactful** machine learning solutions
     </td>
     <td align="center" width="96">
       <div title="Proficient">
-        <img src="https://www.agilealliance.org/wp-content/uploads/2016/09/Agile-Alliance-Logo-RGB-2019.png" width="48" height="48" alt="Agile" />
+        <img src="img/agile.png" width="48" height="48" alt="Agile" />
       </div>
       <br>Agile
     </td>
 
   <td align="center" width="96">
       <div title="Proficient">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Scrum_logo.svg/1200px-Scrum_logo.svg.png" width="48" height="48" alt="Scrum" />
+        <img src="img/scrum.svg" width="48" height="48" alt="Scrum" />
       </div>
       <br>Scrum
     </td>
