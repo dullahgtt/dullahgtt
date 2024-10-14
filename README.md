@@ -1,8 +1,8 @@
 ## Hi, I'm Abdullah 👋  
 Welcome to my GitHub profile!
 
-## 🌐 Personal Website Incoming! 🚀
-![Website Construction](https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif)
+<h2 style="color:#FF5733;">🌐 Personal Website Incoming! 🚀</h2>
+
 
 🚀 I’m a **Machine Learning Engineer** with a strong foundation in **Computer Science** and **Applied Mathematics**. I recently graduated from [Texas State University](https://www.txstate.edu), where I had the incredible opportunity to work with exceptional mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** through the prestigious [**H-LSAMP Scholars Program**](https://hlsamp.cose.txst.edu/).
 
