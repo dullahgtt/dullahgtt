@@ -1,18 +1,15 @@
 ## Hi, I'm Abdullah 👋  
 Welcome to my GitHub profile!
 
-View my Website: https://dullahgtt.github.io/Abdullah-Kamal/
+[![🌐 Visit My Website](https://img.shields.io/badge/🌐-Visit%20My%20Website-blue?style=for-the-badge)](https://dullahgtt.github.io/Abdullah-Kamal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 
-🚀 I’m a **Machine Learning Engineer** with a strong foundation in **Computer Science** and **Applied Mathematics**. I recently graduated from [Texas State University](https://www.txstate.edu), where I had the incredible opportunity to work with exceptional mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** through the prestigious [**H-LSAMP Scholars Program**](https://hlsamp.cose.txst.edu/).
 
-💡 My passion lies in leveraging **AI**, **ML**, and **software development** to solve real-world problems. I've worked on a wide range of projects—from building **drone simulations** 🛩️ to developing **AI-powered applications** 🤖 that drive innovation and efficiency. 
-
-🔍 **What I'm focused on now:**  
-I'm on a mission to build **scalable**, **impactful** machine learning solutions, contribute to the **open-source community**, and continuously learn and grow in the field of AI.
+| 💼 **About Me** | 🎯 **What I’m Working On** | 🌱 **Current Focus** |
+|-----------------|----------------------------|-----------------------|
+| 🚀 **Machine Learning Engineer** with a strong background in **Computer Science** and **Applied Mathematics** from [Texas State University](https://www.txstate.edu). Honored to work with amazing mentors like **Dr. Cody Patterson**, **Dr. Iván Ojeda-Ruiz**, and **Dr. Ted Lehr** in the [**H-LSAMP Scholars Program**](https://hlsamp.cose.txst.edu/). | Building impactful **AI-powered applications** and **drone simulations**. Passionate about using **AI and ML** to solve complex, real-world problems! | Focused on creating **scalable machine learning solutions**, contributing to **open-source projects**, and diving deep into the latest in **AI and ML advancements**. |
 
 🌟 Let's connect and explore how we can collaborate!
-
-🌐 **Personal Website Incoming!** 🚀
 
 ## 🛠️ Technologies & Tools
 <table>
