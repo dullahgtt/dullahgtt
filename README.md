@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!
 
 [![🌐 Visit My Website](https://img.shields.io/badge/🌐-Visit%20My%20Website-blue?style=for-the-badge)](https://dullahgtt.github.io/Abdullah-Kamal/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdullah-kamal-a0106b1b9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-kamal-a0106b1b9/)
 
 
 | 💼 **About Me** | 🎯 **What I’m Working On** | 🌱 **Current Focus** |
